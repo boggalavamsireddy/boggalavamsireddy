@@ -57,7 +57,7 @@
 <td width="50%" align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,typescript" />
+<img src="https://skillicons.dev/icons?i=html,css,js," />
 
 </td>
 
@@ -75,7 +75,7 @@
 <td width="50%" align="center">
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 </td>
 
